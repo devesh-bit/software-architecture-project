@@ -9,7 +9,7 @@ Back End & Front End have their respective readme files with instructions to run
 * API supports pagination & filters.
 
 ### DB
-* For databse I have relied on MongoDB, and mongoose as an ORM.
+* For database I have relied on MongoDB, and mongoose as an ORM.
 * Implements some commanly used patterns in Non-Relational Database.
 
 ### JWT 
@@ -29,3 +29,6 @@ Back End & Front End have their respective readme files with instructions to run
 
 ### DevOps
 * Travis pipeline is implemented, config can be found in `.travis.yml`
+* I haven't written unit tests for client/server.
+* Docker instructions are written in `Dockerfile` in back-end.
+
