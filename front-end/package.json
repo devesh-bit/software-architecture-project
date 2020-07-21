@@ -5,7 +5,7 @@
   "private": false,
   "author": "Devesh Vashishth",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-google-login": "^5.0.2",
